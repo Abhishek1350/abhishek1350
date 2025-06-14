@@ -1,4 +1,4 @@
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00A6F7&center=true&multiline=true&width=435&lines=Self+Taught+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00A6F7&center=true&multiline=true&width=435&lines=Self+Taught+Software+Developer)](https://git.io/typing-svg)
    
 [![Portfolio](https://img.shields.io/badge/Portfolio-1765F6.svg?logo=steemit&logoColor=white)](https://www.imabhishek.site) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/imabhishek.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-bhardwaj-76b9a721b/) [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:hello@imabhishek.site)
 
@@ -29,6 +29,7 @@
   <img width="8" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="Git" />
   <img width="8" />
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-FF6B81?logo=openai&logoColor=white&style=for-the-badge" height="30" alt="AI Enthusiast" />
 </div>
 
 
