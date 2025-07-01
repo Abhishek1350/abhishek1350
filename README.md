@@ -45,10 +45,6 @@
 <h3 align="center">𝘎𝘪𝘵𝘏𝘶𝘣 𝘚𝘵𝘢𝘵𝘴 </h3>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek1350&theme=aura_dark" width="800" height="auto" />
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishek1350&theme=aura_dark" width="400" height="auto" />
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishek1350&theme=aura_dark&utcOffset=+6.5" width="400" height="auto" />
 </div> 
 
 </div><br/>
