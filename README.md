@@ -56,12 +56,6 @@
 </div>
 
 
-<div align="center">
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=abhishek1350&theme=dark&hide_total_contributions=true)]
-
-</div><br/>
-
 
 
 <h3 align="center">𝘙𝘢𝘯𝘥𝘰𝘮 𝘋𝘦𝘷 𝘘𝘶𝘰𝘵𝘦</h3>
