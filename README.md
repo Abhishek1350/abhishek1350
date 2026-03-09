@@ -52,23 +52,13 @@
 
 <div align="center">
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=abhishek1350&theme=dark&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=abhishek1350&theme=dark&hide_total_contributions=true)]
 
 </div><br/>
 
-<div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek1350&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
 
 <h3 align="center">𝘙𝘢𝘯𝘥𝘰𝘮 𝘋𝘦𝘷 𝘘𝘶𝘰𝘵𝘦</h3>
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
-
-
-<h3 align="center">🔄 𝘝𝘪𝘴𝘪𝘵𝘰𝘳𝘴 𝘊𝘰𝘶𝘯𝘵</h3>
-<p align="center">
-    <img src="https://profile-counter.glitch.me/abhishek1350/count.svg" />
-</p>
