@@ -51,7 +51,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=abhishek1350&theme=dark&hide_total_contributions=true)]
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abhishek1350&theme=dark)]
 
 </div><br/>
 
